@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+peony/.idea/misc.xml
+peony/.idea/modules.xml
+peony/.idea/peony.iml
+peony/.idea/workspace.xml
